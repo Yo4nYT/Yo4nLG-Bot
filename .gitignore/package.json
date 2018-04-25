@@ -1,0 +1,35 @@
+{
+  "name": "Yo4nLG-Bot",
+  "version": "1.0.0",
+  "description": "Fait par Yo4n",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "github:hydrabolt/discord.js",
+    "flat-file-db": "latest",
+    "fs": "latest",
+    "node-opus": "^0.2.2",
+    "opusscript": "^0.0.1",
+    "request": "^2.67.0",
+    "sha1": "latest",
+    "youtube-playlist-info": "latest",
+    "youtube-search": "latest",
+    "ytdl-core": "latest"
+  },
+  "keywords": [
+    "bot",
+    "discord",
+    "music",
+    "command",
+    "module",
+    "nodejs",
+    "nodebot"
+  ],
+  "author": "Yo4n",
+  "license": "MIT",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
